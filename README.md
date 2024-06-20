@@ -43,12 +43,13 @@ I am a Ruby Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 Languages and Tools :
 <div align="center">
+  <img src="https://www.vectorlogo.zone/logos/ruby-on-rails/ruby-on-rails-icon.svg" title="Ruby on Rails" alt="Ruby on Rails" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB"  alt="MongoDb" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB"  alt="MongoDb" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
